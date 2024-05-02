@@ -1,0 +1,5 @@
+Name: TestToken
+Default: yes
+Priority: 800
+Auth-Type: Primary
+Auth: sufficient /home/vas/CLionProjects/sdk-for-TokenTwoFactor/cmake-build-debug/libsdk_for_token.so /home/user.json 192.168.1.112 15000
